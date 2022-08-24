@@ -1,0 +1,199 @@
+.homediv1{
+    height:70px;
+    margin: 1px;
+    padding: 1px;
+    overflow: visible;
+    background-color: #333;
+}
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 1px;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:rgb(0,140,140);
+    text-align: center;
+    padding: 24px 26px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.button2{
+  float: right;
+  padding:15px;
+  margin:8px;
+  background-color:rgb(0,140,140);
+}
+.center {
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+  font-size: 30px;
+  clear: left;
+
+}
+
+.font1 {
+  font-size: 80px;
+  margin:70px 0px 0px 60px;
+}
+.font2 {
+  font-size: 60px;
+  margin:0px 0px 0px 60px;
+}
+.float1{
+  float:left;
+  width:100%;
+  padding:10px 20px;
+}
+.float2{
+  float:left;
+  width:100%;
+  position: relative;
+}
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  color:white;
+}
+
+.img3{
+  width:100%;
+}
+.float4{
+  float:left;
+  width:60%;
+}
+.float3{
+  float:right;
+  width:35%;
+}
+.img1{
+  width:100%;
+}
+.font3{
+  font-size: 20px;
+  margin:60px 0px 0px 20px;
+}
+.font4{
+  font-size: 35px;
+  margin:24px 20px;
+}
+.font5{
+  font-size: 20px;
+  margin:24px 20px;
+}
+.back{
+  height:100%;
+}
+.back1{
+  height:70%;
+}
+.float5{
+  float:right;
+  width:60%;
+}
+.float6{
+  float:left;
+  width:35%;
+}
+.img2{
+ width:16px;
+}
+.center3{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  font-size: 30px;
+  clear: left;
+
+}
+.back2{
+  width:100%;
+  clear: left;
+  height:100%;
+
+}
+.center1{
+   background-color:rgb(163, 190, 194);
+   padding: 70px;
+   box-shadow: 10px 10px;
+   border-radius: 35px;
+   position: absolute;
+   left:30%;
+   font-size: 20px;
+}
+input{
+  padding:10px;
+  margin:5px 0px;
+}
+label{
+  margin:10px 0px;
+
+}
+.button1{
+ width:100%;
+ padding:10px;
+ margin:10px 0px;
+}
+
+.button1:hover {
+  background-color: black;
+  color: white;
+}
+.new{
+  float:left;
+  width:100%;
+  height:138px;
+  display:inline;
+
+}
+.footerc{
+    height:180px;
+    margin: 1px;
+    padding: 1px;
+    overflow: visible;
+    background-color:#333;
+    color:rgb(0,140,140)
+
+}
+.footer1{
+  float:left;
+  width:35%;
+  height:138px;
+  text-align:center;
+}
+.footer2{
+  float:left;
+  width:25%;
+  height:138px;
+  text-align:center;
+}
+.pad{
+  display: inline-block;
+  text-align: left;
+  padding:25px;
+
+}
+.head1{
+  font-size:20px;
+}
+
+.footerl{
+  padding:0px 15px;
+}
+.link{
+ padding:0px;
+ color:rgb(0,140,140)
+ }
+
+
